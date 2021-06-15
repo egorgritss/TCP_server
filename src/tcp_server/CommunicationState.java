@@ -1,0 +1,12 @@
+package tcp_server;
+
+public enum CommunicationState {
+    RECEIVING_NAME,
+    RECEIVING_KEY_ID,
+    RECEIVING_CLIENT_CONFIRMATION,
+    RECEIVING_COORDS1,
+    RECEIVING_COORDS2,
+    INIT_COORDS_RECEIVED,
+    NAVIGATING,
+    ARRIVED,
+}
