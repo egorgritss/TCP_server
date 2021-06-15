@@ -238,11 +238,13 @@ S: "105 GET MESSAGE\a\b"
 C: "Tajny vzkaz.\a\b"
 S: "106 LOGOUT\a\b"
 
-Testování
+Testování 
 
 K testování je připraven obraz operačního systému Tiny Core Linux, který obsahuje tester domácí úlohy. Obraz je kompatibilní s aplikací VirtualBox.
 Tester
 
+If you want to test this programm, you have to request the tester by contacting me.
+                    
 Stáhněte a rozbalte obraz. Výsledný soubor spusťte ve VirtualBoxu. Po spuštění a nabootování je okamžitě k dispozici shell. Tester se spouští příkazem tester:
 
 tester <číslo portu> <vzdálená adresa> [čísla testů]
