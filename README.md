@@ -1,5 +1,5 @@
 # TCP_server
-Easy TCP server I've done as my school project. Written in pure Java.
+Simple TCP server I've done as my school project. Written in pure Java.
 
 Annotation
 
